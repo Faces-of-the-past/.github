@@ -5,6 +5,10 @@ Welcome to the _Faces of the past_ project! We'll use this GitHub organization a
 
 ## Curated references
 
+### 🤖 Data sources
+- [RKD Research](https://research.rkd.nl/nl), the main entry point for RKD's datasets.
+- [RKD knowledge graph](https://rkd.triply.cc/rkd/RKD-Knowledge-Graph/sparql), a `sparql` client for RKD's database. 
+
 ### 💻 Code
 - Sebastian Bunda's [ArtFace-RKD](https://github.com/stbunda/ArtFace-RKD) repository
 
