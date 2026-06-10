@@ -1,10 +1,15 @@
 # Faces of the past
 
 ## Hi there 👋
-We'll use this GitHub organization to centralize the information related to the Faces of the past project. Including:
+Welcome to the _Faces of the past_ project! We'll use this GitHub organization as the project landing page.
 
-- 👩‍💻 Useful resources
-- 💻 Code
+## Curated references
+
+### 💻 Code
+- Sebastian Bunda's [ArtFace-RKD](https://github.com/stbunda/ArtFace-RKD) repository
+
+### 👩‍💻 Other resources
+- Jennifer Batchelor's [thesis](https://github.com/Jennifer-SB/thesis) (private repo)
 
 ## Misc
 <a href="https://www.flaticon.com/free-icons/art" title="art icons">Art icon created by Freepik - Flaticon</a>
