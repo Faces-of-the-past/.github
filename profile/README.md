@@ -1,7 +1,7 @@
 # Faces of the past
 
 ## Hi there 👋
-Welcome to the _Faces of the past_ project! We'll use this GitHub organization as the project landing page.
+Welcome to the [_Faces of the past_](https://research-software-directory.org/projects/faces) project! We'll use this GitHub organization as the project landing page.
 
 ## Curated references
 
