@@ -3,6 +3,9 @@
 ## Hi there 👋
 Welcome to the [_Faces of the past_](https://research-software-directory.org/projects/faces) project! We'll use this GitHub organization as the project landing page.
 
+## Project map
+- [dataset](https://github.com/Faces-of-the-past/dataset): script for (re)generating our portraits dataset.
+
 ## Curated references
 
 ### 🤖 Data sources
