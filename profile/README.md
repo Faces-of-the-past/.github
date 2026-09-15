@@ -3,15 +3,6 @@
 ## Hi there 👋
 Welcome to the [_Faces of the past_](https://research-software-directory.org/projects/faces) project! We'll use this GitHub organization as the project landing page.
 
-## Curated references
-
-### 🤖 Data sources
-- [RKD Research](https://research.rkd.nl/nl), the main entry point for RKD's datasets.
-- [RKD knowledge graph](https://rkd.triply.cc/rkd/RKD-Knowledge-Graph/sparql), a `sparql` client for RKD's database. 
-
-### 💻 Code
-- Sebastian Bunda's [ArtFace-RKD](https://github.com/stbunda/ArtFace-RKD) repository
-
 ## Misc
 <a href="https://www.flaticon.com/free-icons/art" title="art icons">Art icon created by Freepik - Flaticon</a>
 
