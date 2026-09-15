@@ -3,9 +3,6 @@
 ## Hi there 👋
 Welcome to the [_Faces of the past_](https://research-software-directory.org/projects/faces) project! We'll use this GitHub organization as the project landing page.
 
-## Organization map
-- [dataset](https://github.com/Faces-of-the-past/dataset): script for (re)generating our portraits dataset.
-
 ## Curated references
 
 ### 🤖 Data sources
@@ -14,9 +11,6 @@ Welcome to the [_Faces of the past_](https://research-software-directory.org/pro
 
 ### 💻 Code
 - Sebastian Bunda's [ArtFace-RKD](https://github.com/stbunda/ArtFace-RKD) repository
-
-### 👩‍💻 Other resources
-- Jennifer Batchelor's [thesis](https://github.com/Jennifer-SB/thesis) (private)
 
 ## Misc
 <a href="https://www.flaticon.com/free-icons/art" title="art icons">Art icon created by Freepik - Flaticon</a>
